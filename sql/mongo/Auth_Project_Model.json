@@ -1,0 +1,19 @@
+{ 
+    "_id" : ObjectId("5c0a22a39924a62ec41883fb"), 
+    "modelCollectionName" : "SHIBO_MODEL", 
+    "introduction" : "这是世博文化中心项目", 
+    "logoName" : "shibo-logo.png", 
+    "imgName" : "shibo-img.png",
+    "_class" : "com.fiot.server.entity.AuthProjectModel", 
+    "projectName" : "shibo"
+    
+}
+{ 
+    "_id" : ObjectId("5c0a22a39924a62ec31883fb"), 
+    "modelCollectionName" : "KUNYI_MODEL", 
+    "introduction" : "这是昆医体育馆项目", 
+    "logoName" : "kunyi-logo.png", 
+    "imgName" : "kunyi-img.png",
+    "_class" : "com.fiot.server.entity.AuthProjectModel", 
+    "projectName" : "kunyi"
+}

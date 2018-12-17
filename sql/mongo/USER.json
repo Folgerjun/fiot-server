@@ -1,0 +1,10 @@
+{ 
+    "_id" : ObjectId("5c08f2219924a623b4b64cc4"), 
+    "userName" : "ffj", 
+    "passWord" : "ffj", 
+    "authorizations" : [
+        "shibo", 
+        "kunyi"
+    ], 
+    "_class" : "com.fiot.server.entity.UserEntity"
+}
